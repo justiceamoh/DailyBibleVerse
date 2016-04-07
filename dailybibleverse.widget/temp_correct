@@ -1,0 +1,17 @@
+<!DOCTYPE crossway-bible SYSTEM "http://www.gnpcb.org/esv/share/schemas/crossway.base.entities.dtd">
+<crossway-bible class="passage-query">
+<passage>
+  <reference>Romans 12:13</reference>
+  <surrounding-chapters>
+    <previous>Romans 11</previous>
+    <current>Romans 12</current>
+    <next>Romans 13</next>
+  </surrounding-chapters>
+  <content>
+<verse-unit unit-id="45012013">
+<begin-paragraph/><marker class="begin-verse" mid="v45012013"/><verse-num>13</verse-num>Contribute to the needs of the saints and seek to show hospitality.<end-paragraph/>
+</verse-unit>
+  </content>
+</passage>
+<copyright>The Holy Bible, English Standard Version copyright (c)2001 by Crossway Bibles, a division of Good News Publishers. Used by permission. All rights reserved. http://www.esv.org</copyright>
+</crossway-bible>
