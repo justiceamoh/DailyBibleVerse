@@ -1,4 +1,6 @@
-command: 'curl -s "http://www.esvapi.org/v2/rest/dailyVerse?key=IP&output-format=crossway-xml-1.0"'
+# command: 'curl -s "http://www.esvapi.org/v2/rest/dailyVerse?key=IP&output-format=crossway-xml-1.0"'
+command: 'curl -s "https://www.biblegateway.com/votd/get/?format=xml&version=ESV"'
+
 
 refreshFrequency: 21000000
 
